@@ -1,8 +1,8 @@
 # Personal Portfolio Website
 ## Student Details
-Name: YOUR_NAME
-Roll Number: YOUR_ROLLNUMBER
-Email: YOUR_IITM_EMAIL
+Name: Harshit Bhatt
+Roll Number: 24f3000740
+Email: 24f3000740@ds.study.iitm.ac.in
 ---
 ## About Project
 This project is created as part of the Git & GitHub Workshop.
